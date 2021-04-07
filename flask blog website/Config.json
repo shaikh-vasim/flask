@@ -1,0 +1,13 @@
+{
+    "params": {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/tech_blog",
+        "prod_uri": "mysql://root:@localhost/tech_blog",
+        "fb_url": "https://github.com/shaikh-vasim",
+        "tw_url": "https://github.com/shaikh-vasim",
+        "git_url": "https://github.com/shaikh-vasim",
+        "vasim": "vasimshaikh",
+        "gmail-user": "svasim717@gmail.com",
+        "gmail-password": "vasim@123 "
+    }
+}
